@@ -1,0 +1,11 @@
+{
+  "name": "tui",
+  "version": "1.0.0",
+  "description": "Node based TUI framework",
+  "type": "module",
+  "main": "index.js",
+  "author": "samuel-horner",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
